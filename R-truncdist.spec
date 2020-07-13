@@ -4,7 +4,7 @@
 #
 Name     : R-truncdist
 Version  : 1.0.2
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/truncdist_1.0-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/truncdist_1.0-2.tar.gz
 Summary  : Truncated Random Variables
